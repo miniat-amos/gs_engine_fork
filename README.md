@@ -1,7 +1,7 @@
 # Gunslinger Engine
 
 You can also check the main **Gunslinger** repository here, where you'll find a documentation for you to get started and learn how to use it:
-[Gunlinger repository](https://github.com/MrFrenik/gunslinger)
+[Gunslinger repository](https://github.com/MrFrenik/gunslinger)
  
 And you can also find a complete list of examples for you to learn from and test on your machine here: 
 [Gunslinger examples](https://github.com/MrFrenik/gs_examples)
